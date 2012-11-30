@@ -1,0 +1,1172 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="54367996-092a-47db-8ae2-47d7df695a9d" name="Default" comment="" />
+    <ignored path="DesignPatterns.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <file path="/GoodsHelperImpl.java" changelist="54367996-092a-47db-8ae2-47d7df695a9d" time="1353541478302" ignored="false" />
+    <file path="/fragment.java" changelist="54367996-092a-47db-8ae2-47d7df695a9d" time="1354232994800" ignored="false" />
+    <file path="/AccountImpl.java" changelist="54367996-092a-47db-8ae2-47d7df695a9d" time="1353540987747" ignored="false" />
+    <file path="$PROJECT_DIR$/../DevHome/ShoppingSiteAutomation/shopex-automation/src/test/java/com/overstock/shopex/clubOFreegift/ClubFreeGiftProductPageValidations.java" changelist="54367996-092a-47db-8ae2-47d7df695a9d" time="1353537542692" ignored="false" />
+    <file path="/TermDepositAccount.java" changelist="54367996-092a-47db-8ae2-47d7df695a9d" time="1353536260402" ignored="false" />
+    <file path="/SavingAccount.java" changelist="54367996-092a-47db-8ae2-47d7df695a9d" time="1353536180611" ignored="false" />
+    <file path="/AccountHelper.java" changelist="54367996-092a-47db-8ae2-47d7df695a9d" time="1353533841338" ignored="false" />
+    <file path="/Account.java" changelist="54367996-092a-47db-8ae2-47d7df695a9d" time="1353533732007" ignored="false" />
+    <file path="/Test.java" changelist="54367996-092a-47db-8ae2-47d7df695a9d" time="1353533192615" ignored="false" />
+    <file path="/Tax.java" changelist="54367996-092a-47db-8ae2-47d7df695a9d" time="1353530893847" ignored="false" />
+    <file path="/Dummy.txt" changelist="54367996-092a-47db-8ae2-47d7df695a9d" time="1354144560536" ignored="false" />
+    <file path="/Goods.java" changelist="54367996-092a-47db-8ae2-47d7df695a9d" time="1354224802710" ignored="false" />
+    <file path="/ItemImpl.java" changelist="54367996-092a-47db-8ae2-47d7df695a9d" time="1353523761399" ignored="false" />
+    <file path="/a.xml" changelist="54367996-092a-47db-8ae2-47d7df695a9d" time="1353452593279" ignored="false" />
+    <file path="$PROJECT_DIR$/src/test/java/??DesignPatterns/AppTest.java" changelist="54367996-092a-47db-8ae2-47d7df695a9d" time="1353454234649" ignored="false" />
+    <file path="/AppTest.java" changelist="54367996-092a-47db-8ae2-47d7df695a9d" time="1353454345474" ignored="false" />
+    <file path="/a.java" changelist="54367996-092a-47db-8ae2-47d7df695a9d" time="1354056442859" ignored="false" />
+    <file path="/ItemType.java" changelist="54367996-092a-47db-8ae2-47d7df695a9d" time="1353522476143" ignored="false" />
+    <file path="/ItemException.java" changelist="54367996-092a-47db-8ae2-47d7df695a9d" time="1353523115417" ignored="false" />
+    <file path="/Item.java" changelist="54367996-092a-47db-8ae2-47d7df695a9d" time="1354230245530" ignored="false" />
+    <file path="/Person.java" changelist="54367996-092a-47db-8ae2-47d7df695a9d" time="1353696495556" ignored="false" />
+    <file path="/Pilot.java" changelist="54367996-092a-47db-8ae2-47d7df695a9d" time="1353702413814" ignored="false" />
+    <file path="/Passenger.java" changelist="54367996-092a-47db-8ae2-47d7df695a9d" time="1353702960352" ignored="false" />
+    <file path="/PersonImpl.java" changelist="54367996-092a-47db-8ae2-47d7df695a9d" time="1353702590501" ignored="false" />
+    <file path="$PROJECT_DIR$/../DevHome/ShoppingSiteAll/ss-clubo-ui-impl/src/test/java/com/overstock/webdev/ui/clubo/internal/otags/ClubOTagsContainerTest.java" changelist="54367996-092a-47db-8ae2-47d7df695a9d" time="1353701557742" ignored="false" />
+    <file path="/Main.java" changelist="54367996-092a-47db-8ae2-47d7df695a9d" time="1353702908509" ignored="false" />
+    <file path="$PROJECT_DIR$/../DevHome/ShoppingSiteAll/ShoppingSite/test/src/com/overstock/webdev/ui/pages/checkout/ordercomplete/OrderCompletePageArgsFactoryTest.java" changelist="54367996-092a-47db-8ae2-47d7df695a9d" time="1353702376842" ignored="false" />
+    <file path="$PROJECT_DIR$/../DevHome/ShoppingSiteAll/ss-seo-ui-impl/src/test/java/com/overstock/webdev/ui/seo/internal/otags/CarouselOTagTest.java" changelist="54367996-092a-47db-8ae2-47d7df695a9d" time="1353702376842" ignored="false" />
+    <file path="$PROJECT_DIR$/../DevHome/ShoppingSiteAll/ShoppingSite/src/com/overstock/webdev/model/ordermanager/OrderManagerService.java" changelist="54367996-092a-47db-8ae2-47d7df695a9d" time="1353702376842" ignored="false" />
+    <file path="$PROJECT_DIR$/../DevHome/ShoppingSiteAll/ss-seo-ui-impl/src/main/java/com/overstock/webdev/ui/seo/internal/otags/CarouselOTag.java" changelist="54367996-092a-47db-8ae2-47d7df695a9d" time="1353702376842" ignored="false" />
+    <file path="/a.dummy" changelist="54367996-092a-47db-8ae2-47d7df695a9d" time="1354056150055" ignored="false" />
+    <file path="/PriceList.java" changelist="54367996-092a-47db-8ae2-47d7df695a9d" time="1353972955163" ignored="false" />
+    <file path="/PriceListImpl.java" changelist="54367996-092a-47db-8ae2-47d7df695a9d" time="1353973542666" ignored="false" />
+    <file path="/PriceListUser.java" changelist="54367996-092a-47db-8ae2-47d7df695a9d" time="1353974043767" ignored="false" />
+    <file path="/PriceListClient.java" changelist="54367996-092a-47db-8ae2-47d7df695a9d" time="1353975234478" ignored="false" />
+    <file path="/PriceListProxy.java" changelist="54367996-092a-47db-8ae2-47d7df695a9d" time="1353976444776" ignored="false" />
+    <file path="/PriceListProxyUser.java" changelist="54367996-092a-47db-8ae2-47d7df695a9d" time="1353976390962" ignored="false" />
+    <file path="/PriceListProxyClient.java" changelist="54367996-092a-47db-8ae2-47d7df695a9d" time="1353976499065" ignored="false" />
+    <file path="/LogginHandler.java" changelist="54367996-092a-47db-8ae2-47d7df695a9d" time="1353977758159" ignored="false" />
+    <file path="/LoggingHandler.java" changelist="54367996-092a-47db-8ae2-47d7df695a9d" time="1353977758650" ignored="false" />
+    <file path="/Calculator.java" changelist="54367996-092a-47db-8ae2-47d7df695a9d" time="1353977800509" ignored="false" />
+    <file path="/CalculatorImpl.java" changelist="54367996-092a-47db-8ae2-47d7df695a9d" time="1353977851750" ignored="false" />
+    <file path="/CalculatorFactory.java" changelist="54367996-092a-47db-8ae2-47d7df695a9d" time="1353978196499" ignored="false" />
+    <file path="/TestDynamicProxy.java" changelist="54367996-092a-47db-8ae2-47d7df695a9d" time="1353978330288" ignored="false" />
+    <file path="$PROJECT_DIR$/../DevHome/ShoppingSiteAll/ShoppingSite/src/com/overstock/webdev/ui/pages/search/guidednav/GuidedNavPage.jamon" changelist="54367996-092a-47db-8ae2-47d7df695a9d" time="1354036491764" ignored="false" />
+    <file path="$PROJECT_DIR$/../DevHome/ShoppingSiteAll/ShoppingSite/src/com/overstock/webdev/ui/pages/search/naturalsearch/SearchPage.jamon" changelist="54367996-092a-47db-8ae2-47d7df695a9d" time="1354036491764" ignored="false" />
+    <file path="$PROJECT_DIR$/../DevHome/ShoppingSiteAll/ss-product-ui-impl/target/generated-sources/jamon/com/overstock/webdev/ui/pages/product/simplicity/internal/centerzone/ProductPageOptionPricingImpl.java" changelist="54367996-092a-47db-8ae2-47d7df695a9d" time="1354212393203" ignored="false" />
+    <file path="/OnlyOne.java" changelist="54367996-092a-47db-8ae2-47d7df695a9d" time="1354036920042" ignored="false" />
+    <file path="/SingletonTest.java" changelist="54367996-092a-47db-8ae2-47d7df695a9d" time="1354037120619" ignored="false" />
+    <file path="/Shape.java" changelist="54367996-092a-47db-8ae2-47d7df695a9d" time="1354037364080" ignored="false" />
+    <file path="/ShapeType.java" changelist="54367996-092a-47db-8ae2-47d7df695a9d" time="1354037451662" ignored="false" />
+    <file path="/ShapeFactory.java" changelist="54367996-092a-47db-8ae2-47d7df695a9d" time="1354037515928" ignored="false" />
+    <file path="/SimpleShapeFactory.java" changelist="54367996-092a-47db-8ae2-47d7df695a9d" time="1354037751017" ignored="false" />
+    <file path="/FactoryTest.java" changelist="54367996-092a-47db-8ae2-47d7df695a9d" time="1354037883033" ignored="false" />
+    <file path="/Circle.java" changelist="54367996-092a-47db-8ae2-47d7df695a9d" time="1354037893282" ignored="false" />
+    <file path="/ComplexShapeFactoryImpl.java" changelist="54367996-092a-47db-8ae2-47d7df695a9d" time="1354133970027" ignored="false" />
+    <file path="/Hexagon.java" changelist="54367996-092a-47db-8ae2-47d7df695a9d" time="1354038325400" ignored="false" />
+    <file path="/ShapeFactoryType.java" changelist="54367996-092a-47db-8ae2-47d7df695a9d" time="1354039382337" ignored="false" />
+    <file path="/AbstractFactoryTest.java" changelist="54367996-092a-47db-8ae2-47d7df695a9d" time="1354134025138" ignored="false" />
+    <file path="$PROJECT_DIR$/../DevHome/ShoppingSiteAll/ss-product-model-impl/src/main/java/com/overstock/webdev/model/product/internal/valuemessaging/ProductValueMessaging.java" changelist="54367996-092a-47db-8ae2-47d7df695a9d" time="1354057582270" ignored="false" />
+    <file path="/ProductValueMessaging.java" changelist="54367996-092a-47db-8ae2-47d7df695a9d" time="1354053576922" ignored="false" />
+    <file path="$PROJECT_DIR$/../DevHome/ShoppingSiteAll/ss-product-model-impl/src/main/java/com/overstock/webdev/model/product/internal/valuemessaging/ValueMessagingService.java" changelist="54367996-092a-47db-8ae2-47d7df695a9d" time="1354056354103" ignored="false" />
+    <file path="/ValueMessagingService.java" changelist="54367996-092a-47db-8ae2-47d7df695a9d" time="1354060173321" ignored="false" />
+    <file path="$PROJECT_DIR$/../DevHome/ShoppingSiteAll/ss-product-model-impl/src/main/java/com/overstock/webdev/model/product/internal/DescriptionStripperImpl.java" changelist="54367996-092a-47db-8ae2-47d7df695a9d" time="1354056722596" ignored="false" />
+    <file path="$PROJECT_DIR$/../DevHome/ShoppingSiteAll/ss-product-model-api/src/main/java/com/overstock/webdev/model/product/valuemessaging/ValueMessagingService.java" changelist="54367996-092a-47db-8ae2-47d7df695a9d" time="1354060180147" ignored="false" />
+    <file path="$PROJECT_DIR$/../DevHome/ShoppingSiteAll/ss-product-model-impl/src/main/java/com/overstock/webdev/model/product/internal/valuemessaging/ValueMessagingServiceImpl.java" changelist="54367996-092a-47db-8ae2-47d7df695a9d" time="1354131058513" ignored="false" />
+    <file path="/ValueMessagingServiceImpl.java" changelist="54367996-092a-47db-8ae2-47d7df695a9d" time="1354057349933" ignored="false" />
+    <file path="$PROJECT_DIR$/../DevHome/ShoppingSiteAll/ss-product-model-impl/src/main/java/com/overstock/webdev/model/product/internal/valuemessaging/ValueMessagingPersister.java" changelist="54367996-092a-47db-8ae2-47d7df695a9d" time="1354057547591" ignored="false" />
+    <file path="$PROJECT_DIR$/../DevHome/ShoppingSiteAll/ShoppingSiteParent/pom.xml" changelist="54367996-092a-47db-8ae2-47d7df695a9d" time="1354121810882" ignored="false" />
+    <file path="$PROJECT_DIR$/../DevHome/ShoppingSiteAll/ShoppingSite/test/src/com/overstock/webdev/model/checkout/api/internal/payment/CheckoutPaymentInformationFactoryTest.java" changelist="54367996-092a-47db-8ae2-47d7df695a9d" time="1354132045518" ignored="false" />
+    <file path="/CD.java" changelist="54367996-092a-47db-8ae2-47d7df695a9d" time="1354230501584" ignored="false" />
+    <file path="/Cosmetics.java" changelist="54367996-092a-47db-8ae2-47d7df695a9d" time="1354230553215" ignored="false" />
+    <file path="/ItemFactory.java" changelist="54367996-092a-47db-8ae2-47d7df695a9d" time="1354134852122" ignored="false" />
+    <file path="/ItemFactoryImpl.java" changelist="54367996-092a-47db-8ae2-47d7df695a9d" time="1354136734038" ignored="false" />
+    <file path="/GoodsFactory.java" changelist="54367996-092a-47db-8ae2-47d7df695a9d" time="1354138322004" ignored="false" />
+    <file path="/Book.java" changelist="54367996-092a-47db-8ae2-47d7df695a9d" time="1354230531752" ignored="false" />
+    <file path="/ItemFactorySelector.java" changelist="54367996-092a-47db-8ae2-47d7df695a9d" time="1354141141502" ignored="false" />
+    <file path="$PROJECT_DIR$/../DevHome/ShoppingSiteAll/ss-product-ui-impl/src/main/java/com/overstock/webdev/ui/pages/product/simplicity/internal/centerzone/ProductPageCenter.jamon" changelist="54367996-092a-47db-8ae2-47d7df695a9d" time="1354140258026" ignored="false" />
+    <file path="$PROJECT_DIR$/../DevHome/ShoppingSiteAll/ss-product-ui-impl/target/generated-sources/jamon/com/overstock/webdev/ui/pages/product/simplicity/internal/centerzone/ProductPageCenterImpl.java" changelist="54367996-092a-47db-8ae2-47d7df695a9d" time="1354212393203" ignored="false" />
+    <file path="/ProductPageCenter.jamon" changelist="54367996-092a-47db-8ae2-47d7df695a9d" time="1354139979604" ignored="false" />
+    <file path="$PROJECT_DIR$/../DevHome/ShoppingSiteAll/ss-product-model-impl/src/main/java/com/overstock/webdev/model/product/internal/ProductDetailsImpl.java" changelist="54367996-092a-47db-8ae2-47d7df695a9d" time="1354140847325" ignored="false" />
+    <file path="$PROJECT_DIR$/../DevHome/ShoppingSiteAll/ss-product-ui-impl/target/checkstyle-checker.xml" changelist="54367996-092a-47db-8ae2-47d7df695a9d" time="1354142629866" ignored="false" />
+    <file path="$PROJECT_DIR$/../DevHome/ShoppingSiteAll/ShoppingSite/src/com/overstock/webdev/model/checkout/api/internal/CheckoutBookOrderConverter.java" changelist="54367996-092a-47db-8ae2-47d7df695a9d" time="1354142629866" ignored="false" />
+    <file path="$PROJECT_DIR$/../DevHome/ShoppingSiteAll/ShoppingSite/test/src/com/overstock/webdev/model/checkout/api/CheckoutPrebookOrderDataConverterFactoryTest.java" changelist="54367996-092a-47db-8ae2-47d7df695a9d" time="1354142629866" ignored="false" />
+    <file path="$PROJECT_DIR$/../DevHome/ShoppingSiteAll/ShoppingSite/test/src/com/overstock/webdev/model/checkout/api/internal/CheckoutBookOrderConverterTest.java" changelist="54367996-092a-47db-8ae2-47d7df695a9d" time="1354142629866" ignored="false" />
+    <file path="$PROJECT_DIR$/../DevHome/ShoppingSiteAll/ShoppingSite/test/src/com/overstock/webdev/model/checkout/api/internal/payment/CheckoutPayPalPaymentProcessorTest.java" changelist="54367996-092a-47db-8ae2-47d7df695a9d" time="1354142629866" ignored="false" />
+    <file path="$PROJECT_DIR$/../DevHome/ShoppingSiteAll/ss-product-ui-impl/target/generated-sources/jamon/com/overstock/webdev/ui/pages/product/simplicity/internal/ProductPageImpl.java" changelist="54367996-092a-47db-8ae2-47d7df695a9d" time="1354142629867" ignored="false" />
+    <file path="$PROJECT_DIR$/../DevHome/ShoppingSiteAll/ss-product-ui-impl/target/generated-sources/jamon/com/overstock/webdev/ui/pages/product/simplicity/internal/ProductPageZoneBreadCrumbs.java" changelist="54367996-092a-47db-8ae2-47d7df695a9d" time="1354212393203" ignored="false" />
+    <file path="$PROJECT_DIR$/../DevHome/ShoppingSiteAll/ss-product-ui-impl/target/generated-sources/jamon/com/overstock/webdev/ui/pages/product/simplicity/internal/ProductPageZoneBreadCrumbsImpl.java" changelist="54367996-092a-47db-8ae2-47d7df695a9d" time="1354212393203" ignored="false" />
+    <file path="$PROJECT_DIR$/../DevHome/ShoppingSiteAll/ss-product-ui-impl/target/generated-sources/jamon/com/overstock/webdev/ui/pages/product/simplicity/internal/ProductReviewSplitScreen.java" changelist="54367996-092a-47db-8ae2-47d7df695a9d" time="1354142629867" ignored="false" />
+    <file path="$PROJECT_DIR$/../DevHome/ShoppingSiteAll/ss-product-ui-impl/target/generated-sources/jamon/com/overstock/webdev/ui/pages/product/simplicity/internal/BuyingGuideList.java" changelist="54367996-092a-47db-8ae2-47d7df695a9d" time="1354212393203" ignored="false" />
+    <file path="$PROJECT_DIR$/../DevHome/ShoppingSiteAll/ss-product-ui-impl/target/generated-sources/jamon/com/overstock/webdev/ui/pages/product/simplicity/internal/BuyingGuideListImpl.java" changelist="54367996-092a-47db-8ae2-47d7df695a9d" time="1354212393203" ignored="false" />
+    <file path="$PROJECT_DIR$/../DevHome/ShoppingSiteAll/ss-product-ui-impl/target/generated-sources/jamon/com/overstock/webdev/ui/pages/product/simplicity/internal/ProductBreadCrumbs.java" changelist="54367996-092a-47db-8ae2-47d7df695a9d" time="1354212393203" ignored="false" />
+    <file path="$PROJECT_DIR$/../DevHome/ShoppingSiteAll/ss-product-ui-impl/target/generated-sources/jamon/com/overstock/webdev/ui/pages/product/simplicity/internal/ProductBreadCrumbsImpl.java" changelist="54367996-092a-47db-8ae2-47d7df695a9d" time="1354212393203" ignored="false" />
+    <file path="$PROJECT_DIR$/../DevHome/ShoppingSiteAll/ss-product-ui-impl/target/generated-sources/jamon/com/overstock/webdev/ui/pages/product/simplicity/internal/ProductPage.java" changelist="54367996-092a-47db-8ae2-47d7df695a9d" time="1354212393203" ignored="false" />
+    <file path="$PROJECT_DIR$/../DevHome/ShoppingSiteAll/ss-product-ui-impl/target/generated-sources/jamon/com/overstock/webdev/ui/pages/product/simplicity/internal/ProductPageBottom.java" changelist="54367996-092a-47db-8ae2-47d7df695a9d" time="1354212393203" ignored="false" />
+    <file path="$PROJECT_DIR$/../DevHome/ShoppingSiteAll/ss-product-ui-impl/target/generated-sources/jamon/com/overstock/webdev/ui/pages/product/simplicity/internal/ProductPageBottomImpl.java" changelist="54367996-092a-47db-8ae2-47d7df695a9d" time="1354142629867" ignored="false" />
+    <file path="$PROJECT_DIR$/../DevHome/ShoppingSiteAll/ss-product-ui-impl/target/generated-sources/jamon/com/overstock/webdev/ui/pages/product/simplicity/internal/centerzone/CustomerReviewSummaryImpl.java" changelist="54367996-092a-47db-8ae2-47d7df695a9d" time="1354212393203" ignored="false" />
+    <file path="$PROJECT_DIR$/../DevHome/ShoppingSiteAll/ss-product-ui-impl/target/generated-sources/jamon/com/overstock/webdev/ui/pages/product/simplicity/internal/ProductReviewSplitScreenImpl.java" changelist="54367996-092a-47db-8ae2-47d7df695a9d" time="1354142629867" ignored="false" />
+    <file path="$PROJECT_DIR$/../DevHome/ShoppingSiteAll/ss-product-ui-impl/target/generated-sources/jamon/com/overstock/webdev/ui/pages/product/simplicity/internal/centerzone/AddToCartButton.java" changelist="54367996-092a-47db-8ae2-47d7df695a9d" time="1354212393203" ignored="false" />
+    <file path="$PROJECT_DIR$/../DevHome/ShoppingSiteAll/ss-product-ui-impl/target/generated-sources/jamon/com/overstock/webdev/ui/pages/product/simplicity/internal/centerzone/AddToCartButtonImpl.java" changelist="54367996-092a-47db-8ae2-47d7df695a9d" time="1354212393203" ignored="false" />
+    <file path="$PROJECT_DIR$/../DevHome/ShoppingSiteAll/ss-product-ui-impl/target/generated-sources/jamon/com/overstock/webdev/ui/pages/product/simplicity/internal/centerzone/AmazonOptionPrice.java" changelist="54367996-092a-47db-8ae2-47d7df695a9d" time="1354212393203" ignored="false" />
+    <file path="$PROJECT_DIR$/../DevHome/ShoppingSiteAll/ss-product-ui-impl/target/generated-sources/jamon/com/overstock/webdev/ui/pages/product/simplicity/internal/centerzone/AmazonOptionPriceImpl.java" changelist="54367996-092a-47db-8ae2-47d7df695a9d" time="1354212393203" ignored="false" />
+    <file path="$PROJECT_DIR$/../DevHome/ShoppingSiteAll/ss-product-ui-impl/target/generated-sources/jamon/com/overstock/webdev/ui/pages/product/simplicity/internal/centerzone/AmazonPrice.java" changelist="54367996-092a-47db-8ae2-47d7df695a9d" time="1354212393203" ignored="false" />
+    <file path="$PROJECT_DIR$/../DevHome/ShoppingSiteAll/ss-product-ui-impl/target/generated-sources/jamon/com/overstock/webdev/ui/pages/product/simplicity/internal/centerzone/AmazonPriceImpl.java" changelist="54367996-092a-47db-8ae2-47d7df695a9d" time="1354212393203" ignored="false" />
+    <file path="$PROJECT_DIR$/../DevHome/ShoppingSiteAll/ss-product-ui-impl/target/generated-sources/jamon/com/overstock/webdev/ui/pages/product/simplicity/internal/centerzone/CustomerReviewSummary.java" changelist="54367996-092a-47db-8ae2-47d7df695a9d" time="1354212393203" ignored="false" />
+    <file path="$PROJECT_DIR$/../DevHome/ShoppingSiteAll/ss-product-ui-impl/target/generated-sources/jamon/com/overstock/webdev/ui/pages/product/simplicity/internal/centerzone/PreOrder.java" changelist="54367996-092a-47db-8ae2-47d7df695a9d" time="1354212393203" ignored="false" />
+    <file path="$PROJECT_DIR$/../DevHome/ShoppingSiteAll/ss-product-ui-impl/target/generated-sources/jamon/com/overstock/webdev/ui/pages/product/simplicity/internal/centerzone/PreOrderImpl.java" changelist="54367996-092a-47db-8ae2-47d7df695a9d" time="1354212393203" ignored="false" />
+    <file path="$PROJECT_DIR$/../DevHome/ShoppingSiteAll/ss-product-ui-impl/target/generated-sources/jamon/com/overstock/webdev/ui/pages/product/simplicity/internal/centerzone/ProductPageCenter.java" changelist="54367996-092a-47db-8ae2-47d7df695a9d" time="1354212393203" ignored="false" />
+    <file path="$PROJECT_DIR$/../DevHome/ShoppingSiteAll/ss-product-ui-impl/target/generated-sources/jamon/com/overstock/webdev/ui/pages/product/simplicity/internal/centerzone/ProductPageItemAndSmallReview.java" changelist="54367996-092a-47db-8ae2-47d7df695a9d" time="1354212393203" ignored="false" />
+    <file path="$PROJECT_DIR$/../DevHome/ShoppingSiteAll/ss-product-ui-impl/target/generated-sources/jamon/com/overstock/webdev/ui/pages/product/simplicity/internal/centerzone/ProductPageItemAndSmallReviewImpl.java" changelist="54367996-092a-47db-8ae2-47d7df695a9d" time="1354212393203" ignored="false" />
+    <file path="$PROJECT_DIR$/../DevHome/ShoppingSiteAll/ss-product-ui-impl/target/generated-sources/jamon/com/overstock/webdev/ui/pages/product/simplicity/internal/centerzone/ProductPageOptionPricing.java" changelist="54367996-092a-47db-8ae2-47d7df695a9d" time="1354212393203" ignored="false" />
+    <file path="$PROJECT_DIR$/../DevHome/ShoppingSiteAll/ss-product-ui-impl/target/generated-sources/jamon/com/overstock/webdev/ui/pages/product/simplicity/internal/centerzone/ProductPagePriceAndInfo.java" changelist="54367996-092a-47db-8ae2-47d7df695a9d" time="1354212393203" ignored="false" />
+    <file path="$PROJECT_DIR$/../DevHome/ShoppingSiteAll/ss-product-ui-impl/target/generated-sources/jamon/com/overstock/webdev/ui/pages/product/simplicity/internal/centerzone/ProductPagePriceAndInfoImpl.java" changelist="54367996-092a-47db-8ae2-47d7df695a9d" time="1354212393203" ignored="false" />
+    <file path="$PROJECT_DIR$/../DevHome/ShoppingSiteAll/ss-product-ui-impl/target/generated-sources/jamon/com/overstock/webdev/ui/pages/product/simplicity/internal/centerzone/ProductPageZoneDetails.java" changelist="54367996-092a-47db-8ae2-47d7df695a9d" time="1354212393203" ignored="false" />
+    <file path="$PROJECT_DIR$/../DevHome/ShoppingSiteAll/ss-product-ui-impl/target/generated-sources/jamon/com/overstock/webdev/ui/pages/product/simplicity/internal/centerzone/ProductPageZoneDetailsImpl.java" changelist="54367996-092a-47db-8ae2-47d7df695a9d" time="1354212393203" ignored="false" />
+    <file path="$PROJECT_DIR$/../DevHome/ShoppingSiteAll/ss-product-ui-impl/target/generated-sources/jamon/com/overstock/webdev/ui/pages/product/simplicity/internal/centerzone/ProductPageZoneReviews.java" changelist="54367996-092a-47db-8ae2-47d7df695a9d" time="1354212393203" ignored="false" />
+    <file path="$PROJECT_DIR$/../DevHome/ShoppingSiteAll/ss-product-ui-impl/target/generated-sources/jamon/com/overstock/webdev/ui/pages/product/simplicity/internal/centerzone/ProductPageZoneReviewsImpl.java" changelist="54367996-092a-47db-8ae2-47d7df695a9d" time="1354212393203" ignored="false" />
+    <file path="$PROJECT_DIR$/../DevHome/ShoppingSiteAll/ss-product-ui-impl/target/generated-sources/jamon/com/overstock/webdev/ui/pages/product/simplicity/internal/centerzone/ProductPricingIsWasPhase2.java" changelist="54367996-092a-47db-8ae2-47d7df695a9d" time="1354212393203" ignored="false" />
+    <file path="$PROJECT_DIR$/../DevHome/ShoppingSiteAll/ss-product-ui-impl/target/generated-sources/jamon/com/overstock/webdev/ui/pages/product/simplicity/internal/centerzone/InternationalTextMessages.java" changelist="54367996-092a-47db-8ae2-47d7df695a9d" time="1354212393203" ignored="false" />
+    <file path="$PROJECT_DIR$/../DevHome/ShoppingSiteAll/ss-product-ui-impl/target/generated-sources/jamon/com/overstock/webdev/ui/pages/product/simplicity/internal/centerzone/InternationalTextMessagesImpl.java" changelist="54367996-092a-47db-8ae2-47d7df695a9d" time="1354212393203" ignored="false" />
+    <file path="$PROJECT_DIR$/../DevHome/ShoppingSiteAll/ss-product-ui-impl/target/generated-sources/jamon/com/overstock/webdev/ui/pages/product/simplicity/internal/centerzone/ProductShortDescription.java" changelist="54367996-092a-47db-8ae2-47d7df695a9d" time="1354212393203" ignored="false" />
+    <file path="$PROJECT_DIR$/../DevHome/ShoppingSiteAll/ss-product-ui-impl/target/generated-sources/jamon/com/overstock/webdev/ui/pages/product/simplicity/internal/centerzone/ProductShortDescriptionImpl.java" changelist="54367996-092a-47db-8ae2-47d7df695a9d" time="1354212393203" ignored="false" />
+    <file path="$PROJECT_DIR$/../DevHome/ShoppingSiteAll/ss-product-ui-impl/target/generated-sources/jamon/com/overstock/webdev/ui/pages/product/simplicity/internal/centerzone/SeeOptionPriceInCart.java" changelist="54367996-092a-47db-8ae2-47d7df695a9d" time="1354212393203" ignored="false" />
+    <file path="$PROJECT_DIR$/../DevHome/ShoppingSiteAll/ss-product-ui-impl/target/generated-sources/jamon/com/overstock/webdev/ui/pages/product/simplicity/internal/centerzone/SeeOptionPriceInCartImpl.java" changelist="54367996-092a-47db-8ae2-47d7df695a9d" time="1354212393203" ignored="false" />
+    <file path="$PROJECT_DIR$/../DevHome/ShoppingSiteAll/ss-product-ui-impl/target/generated-sources/jamon/com/overstock/webdev/ui/pages/product/simplicity/internal/centerzone/ProductPricingIsWasPhase2Impl.java" changelist="54367996-092a-47db-8ae2-47d7df695a9d" time="1354212393203" ignored="false" />
+    <file path="$PROJECT_DIR$/../DevHome/Branches/11-23-12/ShoppingSiteAll/ss-product-ui-impl/src/main/java/com/overstock/webdev/ui/pages/product/simplicity/internal/centerzone/ProductPageCenter.jamon" changelist="54367996-092a-47db-8ae2-47d7df695a9d" time="1354143143418" ignored="false" />
+    <file path="/ItemBuilder.java" changelist="54367996-092a-47db-8ae2-47d7df695a9d" time="1354227839411" ignored="false" />
+    <file path="/ShoppingBasketBuilder.java" changelist="54367996-092a-47db-8ae2-47d7df695a9d" time="1354223718008" ignored="false" />
+    <file path="/Command.java" changelist="54367996-092a-47db-8ae2-47d7df695a9d" time="1354210249218" ignored="false" />
+    <file path="/Light.java" changelist="54367996-092a-47db-8ae2-47d7df695a9d" time="1354210339311" ignored="false" />
+    <file path="/FlipUpCommand.java" changelist="54367996-092a-47db-8ae2-47d7df695a9d" time="1354210392426" ignored="false" />
+    <file path="/FlipDownCommand.java" changelist="54367996-092a-47db-8ae2-47d7df695a9d" time="1354210770676" ignored="false" />
+    <file path="/Switch.java" changelist="54367996-092a-47db-8ae2-47d7df695a9d" time="1354210706189" ignored="false" />
+    <file path="/PressSwitchTest.java" changelist="54367996-092a-47db-8ae2-47d7df695a9d" time="1354211195150" ignored="false" />
+    <file path="/CommandType.java" changelist="54367996-092a-47db-8ae2-47d7df695a9d" time="1354211008514" ignored="false" />
+    <file path="/Shopping.java" changelist="54367996-092a-47db-8ae2-47d7df695a9d" time="1354233888623" ignored="false" />
+    <file path="$PROJECT_DIR$/../DevHome/ShoppingSiteAll/ss-product-model-api/src/main/java/com/overstock/webdev/model/product/ProductTypeService.java" changelist="54367996-092a-47db-8ae2-47d7df695a9d" time="1354224339519" ignored="false" />
+    <file path="$PROJECT_DIR$/../DevHome/ShoppingSiteAll/ss-product-model-impl/src/main/java/com/overstock/webdev/model/product/internal/ProductTypeServiceImpl.java" changelist="54367996-092a-47db-8ae2-47d7df695a9d" time="1354224339519" ignored="false" />
+    <file path="/CheckStrategy.java" changelist="54367996-092a-47db-8ae2-47d7df695a9d" time="1354226088129" ignored="false" />
+    <file path="/LongerThan15.java" changelist="54367996-092a-47db-8ae2-47d7df695a9d" time="1354229211132" ignored="false" />
+    <file path="/StartsWithCD.java" changelist="54367996-092a-47db-8ae2-47d7df695a9d" time="1354229186563" ignored="false" />
+    <file path="/CountDecorator.java" changelist="54367996-092a-47db-8ae2-47d7df695a9d" time="1354229124595" ignored="false" />
+    <file path="/CheckStrategyAdapter.java" changelist="54367996-092a-47db-8ae2-47d7df695a9d" time="1354229014805" ignored="false" />
+    <file path="$PROJECT_DIR$/src/main/java/com/shoppingsite/item/composition/GoodsHelper.java" changelist="54367996-092a-47db-8ae2-47d7df695a9d" time="1354230040011" ignored="false" />
+    <file path="$PROJECT_DIR$/src/main/java/com/shoppingsite/item/composition/GoodsHelperImpl.java" changelist="54367996-092a-47db-8ae2-47d7df695a9d" time="1354230040681" ignored="false" />
+    <file path="/ItemVisitor.java" changelist="54367996-092a-47db-8ae2-47d7df695a9d" time="1354230362757" ignored="false" />
+    <file path="/GoodsLabellingVisitor.java" changelist="54367996-092a-47db-8ae2-47d7df695a9d" time="1354230759932" ignored="false" />
+    <file path="/PatternsType.java" changelist="54367996-092a-47db-8ae2-47d7df695a9d" time="1354233829006" ignored="false" />
+    <file path="/PatternsName.java" changelist="54367996-092a-47db-8ae2-47d7df695a9d" time="1354233286997" ignored="false" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="CompilerWorkspaceConfiguration">
+    <option name="COMPILER_PROCESS_HEAP_SIZE" value="2048" />
+    <option name="COMPILER_PROCESS_ADDITIONAL_VM_OPTIONS" value="-XX:MaxPermSize=256m" />
+  </component>
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="DaemonCodeAnalyzer">
+    <disable_hints />
+  </component>
+  <component name="DebuggerManager">
+    <ui_properties default_suspend_policy="SuspendAll" default_condition_enabled="true" />
+    <breakpoint_any default_suspend_policy="SuspendAll" default_condition_enabled="true">
+      <breakpoint>
+        <option name="NOTIFY_CAUGHT" value="true" />
+        <option name="NOTIFY_UNCAUGHT" value="true" />
+        <option name="ENABLED" value="false" />
+        <option name="LOG_ENABLED" value="false" />
+        <option name="LOG_EXPRESSION_ENABLED" value="false" />
+        <option name="SUSPEND_POLICY" value="SuspendAll" />
+        <option name="SUSPEND" value="true" />
+        <option name="COUNT_FILTER_ENABLED" value="false" />
+        <option name="COUNT_FILTER" value="0" />
+        <option name="CONDITION_ENABLED" value="true" />
+        <option name="CLASS_FILTERS_ENABLED" value="false" />
+        <option name="INSTANCE_FILTERS_ENABLED" value="false" />
+        <option name="CONDITION" value="" />
+        <option name="LOG_MESSAGE" value="" />
+      </breakpoint>
+      <breakpoint>
+        <option name="NOTIFY_CAUGHT" value="true" />
+        <option name="NOTIFY_UNCAUGHT" value="true" />
+        <option name="ENABLED" value="false" />
+        <option name="LOG_ENABLED" value="false" />
+        <option name="LOG_EXPRESSION_ENABLED" value="false" />
+        <option name="SUSPEND_POLICY" value="SuspendAll" />
+        <option name="SUSPEND" value="true" />
+        <option name="COUNT_FILTER_ENABLED" value="false" />
+        <option name="COUNT_FILTER" value="0" />
+        <option name="CONDITION_ENABLED" value="true" />
+        <option name="CLASS_FILTERS_ENABLED" value="false" />
+        <option name="INSTANCE_FILTERS_ENABLED" value="false" />
+        <option name="CONDITION" value="" />
+        <option name="LOG_MESSAGE" value="" />
+      </breakpoint>
+    </breakpoint_any>
+    <breakpoint_rules default_suspend_policy="SuspendAll" default_condition_enabled="true" />
+    <breakpoint_rules />
+    <ui_properties />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="DesignPatterns" />
+    <favorites_list name="Current task" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="Shopping.java" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/shoppingsite/item/model/Shopping.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="14" column="13" selection-start="547" selection-end="547" vertical-scroll-proportion="0.14647578">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="PatternsType.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/PatternsType.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="48" column="0" selection-start="1667" selection-end="1667" vertical-scroll-proportion="0.0">
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#1414#1428#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="PatternsName.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/PatternsName.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="6" column="12" selection-start="117" selection-end="117" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ItemVisitor.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/shoppingsite/item/visitor/ItemVisitor.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="9" column="17" selection-start="248" selection-end="248" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Tax.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/shoppingsite/item/model/Tax.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="5" column="13" selection-start="115" selection-end="115" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ItemFactorySelector.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/shoppingsite/item/model/ItemFactorySelector.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="11" column="13" selection-start="453" selection-end="453" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="GoodsLabellingVisitor.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/shoppingsite/item/visitor/GoodsLabellingVisitor.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="23" column="0" selection-start="658" selection-end="658" vertical-scroll-proportion="0.0">
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindManager">
+    <FindUsagesManager>
+      <setting name="OPEN_NEW_TAB" value="false" />
+    </FindUsagesManager>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="changedFiles">
+      <list>
+        <option value="$PROJECT_DIR$/src/main/java/com/com/pricelist/proxy/PriceListProxyUser.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/com/pricelist/proxy/dynamic/Calculator.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/pricelist/proxy/PriceListProxy.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/pricelist/PriceListClient.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/pricelist/proxy/PriceListProxyClient.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/shoppingsite/item/model/Item.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/shoppingsite/item/model/ItemVisitor.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/shoppingsite/item/model/GoodsLabellingVisitor.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/shoppingsite/item/visitor/ItemVisitor.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/shoppingsite/item/model/CD.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/shoppingsite/item/model/Book.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/shoppingsite/item/model/Cosmetics.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/shoppingsite/item/visitor/GoodsLabellingVisitor.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/PatternsName.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/PatternsType.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/shoppingsite/item/model/Shopping.java" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <PATH>
+        <PATH_ELEMENT>
+          <option name="myItemId" value="" />
+          <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$RootNode" />
+        </PATH_ELEMENT>
+        <PATH_ELEMENT>
+          <option name="myItemId" value="DesignPatterns" />
+          <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$ProjectNode" />
+        </PATH_ELEMENT>
+      </PATH>
+      <PATH>
+        <PATH_ELEMENT>
+          <option name="myItemId" value="" />
+          <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$RootNode" />
+        </PATH_ELEMENT>
+        <PATH_ELEMENT>
+          <option name="myItemId" value="DesignPatterns" />
+          <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$ProjectNode" />
+        </PATH_ELEMENT>
+        <PATH_ELEMENT>
+          <option name="myItemId" value="Lifecycle" />
+          <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$LifecycleNode" />
+        </PATH_ELEMENT>
+      </PATH>
+      <PATH>
+        <PATH_ELEMENT>
+          <option name="myItemId" value="" />
+          <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$RootNode" />
+        </PATH_ELEMENT>
+      </PATH>
+    </treeState>
+  </component>
+  <component name="MavenRunner">
+    <option name="jreName" value="#JAVA_HOME" />
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="y" value="22" />
+    <option name="width" value="1920" />
+    <option name="height" value="1054" />
+  </component>
+  <component name="ProjectInspectionProfilesVisibleTreeState">
+    <entry key="Project Default">
+      <profile-state>
+        <expanded-state>
+          <State>
+            <id />
+          </State>
+          <State>
+            <id>Abstraction issues</id>
+          </State>
+          <State>
+            <id>ActionScript specificJavaScript</id>
+          </State>
+          <State>
+            <id>Android Lint</id>
+          </State>
+          <State>
+            <id>Assignment issues</id>
+          </State>
+          <State>
+            <id>Assignment issuesGroovy</id>
+          </State>
+          <State>
+            <id>Assignment issuesJavaScript</id>
+          </State>
+          <State>
+            <id>Class structure</id>
+          </State>
+          <State>
+            <id>Code maturity issues</id>
+          </State>
+          <State>
+            <id>Code style issues</id>
+          </State>
+          <State>
+            <id>Code style issuesJavaScript</id>
+          </State>
+          <State>
+            <id>CoffeeScript</id>
+          </State>
+          <State>
+            <id>Control flow issues</id>
+          </State>
+          <State>
+            <id>Data flow issues</id>
+          </State>
+          <State>
+            <id>Data flow issuesGroovy</id>
+          </State>
+          <State>
+            <id>Data flow issuesJavaScript</id>
+          </State>
+          <State>
+            <id>Declaration redundancy</id>
+          </State>
+          <State>
+            <id>Encapsulation issues</id>
+          </State>
+          <State>
+            <id>General</id>
+          </State>
+          <State>
+            <id>GeneralCoffeeScript</id>
+          </State>
+          <State>
+            <id>GeneralJavaScript</id>
+          </State>
+          <State>
+            <id>Groovy</id>
+          </State>
+          <State>
+            <id>Guice Inspections</id>
+          </State>
+          <State>
+            <id>Initialization issues</id>
+          </State>
+          <State>
+            <id>J2ME issues</id>
+          </State>
+          <State>
+            <id>JBoss Seam issues</id>
+          </State>
+          <State>
+            <id>Java language level issues</id>
+          </State>
+          <State>
+            <id>Java language level migration aids</id>
+          </State>
+          <State>
+            <id>JavaScript</id>
+          </State>
+          <State>
+            <id>LESS</id>
+          </State>
+          <State>
+            <id>Logging issues</id>
+          </State>
+          <State>
+            <id>Memory issues</id>
+          </State>
+          <State>
+            <id>Naming ConventionsGroovy</id>
+          </State>
+          <State>
+            <id>Naming conventions</id>
+          </State>
+          <State>
+            <id>Naming conventionsJavaScript</id>
+          </State>
+          <State>
+            <id>Performance issues</id>
+          </State>
+          <State>
+            <id>Potentially confusing code constructsGroovy</id>
+          </State>
+          <State>
+            <id>Potentially confusing code constructsJavaScript</id>
+          </State>
+          <State>
+            <id>Probable bugs</id>
+          </State>
+          <State>
+            <id>Probable bugsCoffeeScript</id>
+          </State>
+          <State>
+            <id>Probable bugsGroovy</id>
+          </State>
+          <State>
+            <id>Probable bugsJavaScript</id>
+          </State>
+          <State>
+            <id>SASS/SCSS</id>
+          </State>
+          <State>
+            <id>Serialization issues</id>
+          </State>
+          <State>
+            <id>Spring MVCSpring Model</id>
+          </State>
+          <State>
+            <id>Spring Model</id>
+          </State>
+          <State>
+            <id>Threading issues</id>
+          </State>
+          <State>
+            <id>Threading issuesGroovy</id>
+          </State>
+          <State>
+            <id>Visibility issues</id>
+          </State>
+          <State>
+            <id>XSLT</id>
+          </State>
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>Abstraction issues</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectReloadState">
+    <option name="STATE" value="0" />
+  </component>
+  <component name="ProjectState">
+    <option name="privateKey" value="3082025d02010002818100928745c6792fa94e661135cd22ec30e4bddee4fb7305e7a8730f584c2c552f5cc1c848c205c102918776ec855352f8d169359fd1f194bf70e26ba334765d6d47bc7e25a01de28b64acb85bf6cfc3d5840768137baed427963e0bb154510b394c79d460ff2f13a47ad4744a5219c36168af4cac5b885ceb86ba2215717cf744df020301000102818020ca58d90381a0f7c46b9188a88a069f09c679a3b3a7dca19bae116a6a795db1fa43a1d4998909d41b6687a3867408ee8406d60f1b6ad834a0d6c99d11e7f26e4525cc77c0223a8c605626922c465d90123c639a2c7165107d707f2706f8d19acd6f6615d57799e3d641ab777e97ef61e58ba8a176e7d9b619e48932ed8bb2e1024100e8608e0986eec0941e242d94f958e44edbeba0943157f44ef5fee40c393fe83643241cafab6c296ede03e5d2daf61b3d6c19e15c74c880031c551a613a0093e7024100a16c911a4c11bbd3d2b71c65c488b94ede1db43f4a2c8af0f044706d71f89ee8c6d4cab1f85ed7be9028cbac358f7b8ce436d6ea8e9df0982f8aaa91a0a72849024100c6c63139bd0e65f54d832cea8e1097db4d0bd5a46e410a5eb0d6844460846622647473856161785fb9d223b9a64b7729a75acc07c66debf2bd3d9eff241a7269024040524457582c50cd8ccf0defb72a4bbc9360feaba160b2546348c20bba383909c400926bebedcec5ce279350a15ef4fa250d7d01a5a665721eaf805bdaca0091024100cd91889b4dab52dff4ae9afcadc2bb1653bf5738ea7cdaf3fcf96f65550cabb7895cc0edfd3215c34696ded2769eaa553af2d0f9dd06fba30e1ac89c4d5d6e21" />
+    <option name="publicKey" value="30818902818100928745c6792fa94e661135cd22ec30e4bddee4fb7305e7a8730f584c2c552f5cc1c848c205c102918776ec855352f8d169359fd1f194bf70e26ba334765d6d47bc7e25a01de28b64acb85bf6cfc3d5840768137baed427963e0bb154510b394c79d460ff2f13a47ad4744a5219c36168af4cac5b885ceb86ba2215717cf744df0203010001" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1" splitterProportion="0.5">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource ProjectPane="true" />
+      <autoscrollFromSource ProjectPane="true" />
+      <sortByType />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="DesignPatterns" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="DesignPatterns" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="DesignPatterns" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_directory_selection" value="$PROJECT_DIR$/src/main/java/com/pricelist/proxy" />
+    <property name="GoToFile.includeJavaFiles" value="false" />
+    <property name="project.structure.last.edited" value="Global Libraries" />
+    <property name="OverrideImplement.combined" value="false" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="options.splitter.main.proportions" value="0.3" />
+    <property name="recentsLimit" value="5" />
+    <property name="options.lastSelected" value="preferences.sourceCode.ActionScript" />
+    <property name="MemberChooser.sorted" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../DevHome/Branches/11-23-12/ShoppingSiteAll/pom.xml" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="GoToClass.includeJavaFiles" value="false" />
+    <property name="MemberChooser.copyJavadoc" value="false" />
+    <property name="GoToClass.toSaveIncludeLibraries" value="false" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="restartRequiresConfirmation" value="true" />
+    <property name="MemberChooser.showClasses" value="true" />
+    <property name="FullScreen" value="false" />
+    <property name="GoToClass.includeLibraries" value="false" />
+    <property name="options.searchVisible" value="true" />
+    <property name="options.splitter.details.proportions" value="0.2" />
+    <property name="dynamic.classpath" value="false" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="com" />
+      <recent name="com.shoppingsite.item.model" />
+      <recent name="com.shoppingsite.item.strategy" />
+      <recent name="com.designpatterns.command.pressswitch" />
+      <recent name="com.shoppingsite.item.builder" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="com.shoppingsite.item.visitor" />
+      <recent name="com.shoppingsite.item.model" />
+      <recent name="com.pricelist.proxy.dynamic" />
+      <recent name="com.pricelist" />
+      <recent name="com.shoppingsite.item.factory" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Shopping">
+    <configuration default="false" name="Shopping" type="Application" factoryName="Application" temporary="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="com.shoppingsite.item.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="com.shoppingsite.item.model.Shopping" />
+      <option name="VM_PARAMETERS" value="" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" value="" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="DesignPatterns" />
+      <envs />
+      <RunnerSettings RunnerId="JRebel Debug">
+        <option name="bootstrapPath" />
+        <option name="debugPort" value="" />
+        <option name="jrebelArgs" />
+        <option name="loggingEnabled" value="false" />
+        <option name="transport" value="0" />
+        <option name="useBootstrapDefaults" value="true" />
+        <option name="DEBUG_PORT" value="" />
+        <option name="TRANSPORT" value="0" />
+        <option name="LOCAL" value="true" />
+      </RunnerSettings>
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method />
+    </configuration>
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m" />
+      <option name="PROGRAM_PARAMETERS" />
+      <RunnerSettings RunnerId="JRebel Debug">
+        <option name="bootstrapPath" />
+        <option name="debugPort" value="" />
+        <option name="jrebelArgs" />
+        <option name="loggingEnabled" value="false" />
+        <option name="transport" value="0" />
+        <option name="useBootstrapDefaults" value="true" />
+        <option name="DEBUG_PORT" value="" />
+        <option name="TRANSPORT" value="0" />
+        <option name="LOCAL" value="true" />
+      </RunnerSettings>
+      <method />
+    </configuration>
+    <configuration default="true" type="#org.osmorc.OsgiConfigurationType" factoryName="OSGi Bundles" vmParameters="" programParameters="" includeAllBundlesInClassPath="false" workingDir="" useAlternativeJre="false" alternativeJrePath="" frameworkStartLevel="1" defaultStartLevel="5" generateWorkingDir="false">
+      <framework instance="" />
+      <additinalProperties startConsole="true" />
+      <RunnerSettings RunnerId="JRebel Debug">
+        <option name="bootstrapPath" />
+        <option name="debugPort" value="" />
+        <option name="jrebelArgs" />
+        <option name="loggingEnabled" value="false" />
+        <option name="transport" value="0" />
+        <option name="useBootstrapDefaults" value="true" />
+        <option name="DEBUG_PORT" value="" />
+        <option name="TRANSPORT" value="0" />
+        <option name="LOCAL" value="true" />
+      </RunnerSettings>
+      <method />
+    </configuration>
+    <configuration default="true" type="MavenRunConfiguration" factoryName="Maven">
+      <MavenSettings>
+        <option name="myGeneralSettings" />
+        <option name="myRunnerSettings" />
+        <option name="myRunnerParameters">
+          <MavenRunnerParameters>
+            <option name="profiles">
+              <set />
+            </option>
+            <option name="goals">
+              <list />
+            </option>
+            <option name="profilesMap">
+              <map />
+            </option>
+            <option name="workingDirPath" value="" />
+          </MavenRunnerParameters>
+        </option>
+      </MavenSettings>
+      <RunnerSettings RunnerId="JRebel Debug">
+        <option name="bootstrapPath" />
+        <option name="debugPort" value="" />
+        <option name="jrebelArgs" />
+        <option name="loggingEnabled" value="false" />
+        <option name="transport" value="0" />
+        <option name="useBootstrapDefaults" value="true" />
+        <option name="DEBUG_PORT" value="" />
+        <option name="TRANSPORT" value="0" />
+        <option name="LOCAL" value="true" />
+      </RunnerSettings>
+      <method />
+    </configuration>
+    <configuration default="true" type="CfmlUnitRunConfigurationType" factoryName="MXUnit" method="" path="" scope="Component" webpath="">
+      <method />
+    </configuration>
+    <configuration default="true" type="Remote" factoryName="Remote">
+      <option name="USE_SOCKET_TRANSPORT" value="true" />
+      <option name="SERVER_MODE" value="false" />
+      <option name="SHMEM_ADDRESS" value="javadebug" />
+      <option name="HOST" value="localhost" />
+      <option name="PORT" value="5005" />
+      <method />
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="ANNOTATION_TYPE" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <envs />
+      <properties />
+      <listeners />
+      <method />
+    </configuration>
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <module name="" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="HTML_FILE_NAME" />
+      <option name="HTML_USED" value="false" />
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <option name="VM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method />
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" value="" />
+      <option name="VM_PARAMETERS" value="" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" value="" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="DesignPatterns" />
+      <envs />
+      <RunnerSettings RunnerId="JRebel Debug">
+        <option name="bootstrapPath" />
+        <option name="debugPort" value="" />
+        <option name="jrebelArgs" />
+        <option name="loggingEnabled" value="false" />
+        <option name="transport" value="0" />
+        <option name="useBootstrapDefaults" value="true" />
+        <option name="DEBUG_PORT" value="" />
+        <option name="TRANSPORT" value="0" />
+        <option name="LOCAL" value="true" />
+      </RunnerSettings>
+      <method>
+        <option name="Make" enabled="false" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <envs />
+      <patterns />
+      <method />
+    </configuration>
+    <list size="1">
+      <item index="0" class="java.lang.String" itemvalue="Application.Shopping" />
+    </list>
+    <recent_temporary>
+      <list size="1">
+        <item index="0" class="java.lang.String" itemvalue="Application.Shopping" />
+      </list>
+    </recent_temporary>
+    <configuration name="&lt;template&gt;" type="WebApp" default="true" selected="false">
+      <Host>localhost</Host>
+      <Port>5050</Port>
+    </configuration>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="SvnConfiguration" maxAnnotateRevisions="500" myUseAcceleration="nothing" myAutoUpdateAfterCommit="false" cleanupOnStartRun="false">
+    <option name="USER" value="" />
+    <option name="PASSWORD" value="" />
+    <option name="mySSHConnectionTimeout" value="30000" />
+    <option name="mySSHReadTimeout" value="30000" />
+    <option name="LAST_MERGED_REVISION" />
+    <option name="MERGE_DRY_RUN" value="false" />
+    <option name="MERGE_DIFF_USE_ANCESTRY" value="true" />
+    <option name="UPDATE_LOCK_ON_DEMAND" value="false" />
+    <option name="IGNORE_SPACES_IN_MERGE" value="false" />
+    <option name="DETECT_NESTED_COPIES" value="true" />
+    <option name="CHECK_NESTED_FOR_QUICK_MERGE" value="false" />
+    <option name="IGNORE_SPACES_IN_ANNOTATE" value="true" />
+    <option name="SHOW_MERGE_SOURCES_IN_ANNOTATE" value="true" />
+    <option name="FORCE_UPDATE" value="false" />
+    <option name="IGNORE_EXTERNALS" value="false" />
+    <configuration useDefault="true">$USER_HOME$/.subversion</configuration>
+    <myIsUseDefaultProxy>false</myIsUseDefaultProxy>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="54367996-092a-47db-8ae2-47d7df695a9d" name="Default" comment="" />
+      <created>1353451551647</created>
+      <timeSpent>200956000</timeSpent>
+      <updated>1353451551647</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="22" width="1920" height="1054" extended-state="6" />
+    <editor active="false" />
+    <layout>
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="JetGradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="JRebel Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="IDEtalk Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32905984" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32976446" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="JRebel" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="IDEtalk" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.14727855" sideWeight="0.23076923" order="1" side_tool="true" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33333334" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.14727855" sideWeight="0.6720086" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32799146" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.24973032" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32869378" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32762313" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3993576" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="OFFER_MOVE_TO_ANOTHER_CHANGELIST_ON_PARTIAL_COMMIT" value="true" />
+    <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="true" />
+    <option name="CHECK_NEW_TODO" value="true" />
+    <option name="myTodoPanelSettings">
+      <value>
+        <are-packages-shown value="false" />
+        <are-modules-shown value="false" />
+        <flatten-packages value="false" />
+        <is-autoscroll-to-source value="false" />
+      </value>
+    </option>
+    <option name="PERFORM_UPDATE_IN_BACKGROUND" value="true" />
+    <option name="PERFORM_COMMIT_IN_BACKGROUND" value="true" />
+    <option name="PERFORM_EDIT_IN_BACKGROUND" value="true" />
+    <option name="PERFORM_CHECKOUT_IN_BACKGROUND" value="true" />
+    <option name="PERFORM_ADD_REMOVE_IN_BACKGROUND" value="true" />
+    <option name="PERFORM_ROLLBACK_IN_BACKGROUND" value="false" />
+    <option name="CHECK_LOCALLY_CHANGED_CONFLICTS_IN_BACKGROUND" value="false" />
+    <option name="CHANGED_ON_SERVER_INTERVAL" value="60" />
+    <option name="SHOW_ONLY_CHANGED_IN_SELECTION_DIFF" value="true" />
+    <option name="CHECK_COMMIT_MESSAGE_SPELLING" value="true" />
+    <option name="DEFAULT_PATCH_EXTENSION" value="patch" />
+    <option name="SHORT_DIFF_HORISONTALLY" value="true" />
+    <option name="SHORT_DIFF_EXTRA_LINES" value="2" />
+    <option name="SOFT_WRAPS_IN_SHORT_DIFF" value="true" />
+    <option name="INCLUDE_TEXT_INTO_PATCH" value="false" />
+    <option name="INCLUDE_TEXT_INTO_SHELF" value="false" />
+    <option name="SHOW_FILE_HISTORY_DETAILS" value="true" />
+    <option name="SHOW_VCS_ERROR_NOTIFICATIONS" value="true" />
+    <option name="SHOW_DIRTY_RECURSIVELY" value="false" />
+    <option name="FORCE_NON_EMPTY_COMMENT" value="false" />
+    <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="false" />
+    <option name="LAST_COMMIT_MESSAGE" />
+    <option name="MAKE_NEW_CHANGELIST_ACTIVE" value="false" />
+    <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="false" />
+    <option name="CHECK_FILES_UP_TO_DATE_BEFORE_COMMIT" value="false" />
+    <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="false" />
+    <option name="REFORMAT_BEFORE_FILE_COMMIT" value="false" />
+    <option name="FILE_HISTORY_DIALOG_COMMENTS_SPLITTER_PROPORTION" value="0.8" />
+    <option name="FILE_HISTORY_DIALOG_SPLITTER_PROPORTION" value="0.5" />
+    <option name="ACTIVE_VCS_NAME" />
+    <option name="UPDATE_GROUP_BY_PACKAGES" value="false" />
+    <option name="UPDATE_GROUP_BY_CHANGELIST" value="false" />
+    <option name="SHOW_FILE_HISTORY_AS_TREE" value="false" />
+    <option name="FILE_HISTORY_SPLITTER_PROPORTION" value="0.6" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints-dialog>
+        <breakpoints-dialog />
+      </breakpoints-dialog>
+    </breakpoint-manager>
+  </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/pricelist/PriceListImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="9" column="13" selection-start="202" selection-end="202" vertical-scroll-proportion="0.0" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/pricelist/PriceListClient.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="2" column="18" selection-start="42" selection-end="42" vertical-scroll-proportion="0.0" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/shoppingsite/item/model/ItemException.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="5" column="13" selection-start="110" selection-end="110" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/pricelist/proxy/PriceListProxyClient.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="12" column="21" selection-start="359" selection-end="360" vertical-scroll-proportion="0.25165564" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/shoppingsite/item/model/Tax.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="5" column="13" selection-start="115" selection-end="115" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/shoppingsite/item/model/ItemFactorySelector.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="11" column="13" selection-start="453" selection-end="453" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/shoppingsite/item/model/Cosmetics.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="15" column="3" selection-start="411" selection-end="411" vertical-scroll-proportion="0.31456953">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/shoppingsite/item/model/Item.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="7" column="17" selection-start="171" selection-end="171" vertical-scroll-proportion="0.14679912">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/shoppingsite/item/model/Book.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="22" column="24" selection-start="536" selection-end="536" vertical-scroll-proportion="0.46136865">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/shoppingsite/item/model/CD.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="26" column="1" selection-start="574" selection-end="574" vertical-scroll-proportion="0.5452539">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/shoppingsite/item/model/Goods.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="5" column="22" selection-start="125" selection-end="125" vertical-scroll-proportion="0.10485651">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/shoppingsite/item/visitor/ItemVisitor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="9" column="17" selection-start="248" selection-end="248" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/shoppingsite/item/visitor/GoodsLabellingVisitor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="23" column="0" selection-start="658" selection-end="658" vertical-scroll-proportion="0.0">
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/PatternsName.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="6" column="12" selection-start="117" selection-end="117" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/PatternsType.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="48" column="0" selection-start="1667" selection-end="1667" vertical-scroll-proportion="0.0">
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#1414#1428#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/shoppingsite/item/model/Shopping.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="14" column="13" selection-start="547" selection-end="547" vertical-scroll-proportion="0.14647578">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.7</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>DesignPatterns</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.5" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.6</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Maven: junit:junit:3.8.1</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ScopeChooserConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
+
